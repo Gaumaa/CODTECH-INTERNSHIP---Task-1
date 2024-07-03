@@ -15,7 +15,6 @@
 
 ![04  Wireframes Resource (Copy)](https://github.com/Gaumaa/CODTECH-INTERNSHIP---Task-1/assets/169033000/d84ed095-e1d1-4c21-be09-2be3efd0a180)
 
-Objectives- Define the app's navigation flow, screen layouts, 
-            with Navigation bar buttons (Home, Wishlist, My cart, Profile)
+##### Objectives- Define the app's navigation flow, screen layouts with Navigation bar buttons (Home, Wishlist, My Cart, Profile)
 
-Technology used- Figma(It is a popular tool for designer)
+##### Technology used- Figma(It is a popular tool for designer)
